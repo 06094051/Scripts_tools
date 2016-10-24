@@ -113,3 +113,11 @@ astro,HuaweiBigData
 Sublime-Text-3,06094051
 alluxio,Alluxio
 spring-security-oauth,spring-projects
+swagger-ui,swagger-api
+swagger-core,swagger-api
+swagger-codegen,swagger-api
+swagger-editor,swagger-api
+swagger-node,swagger-api
+swagger.io,swagger-api
+swagger-js,swagger-api
+django-rest-swagger,marcgibbons
